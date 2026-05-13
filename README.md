@@ -1,4 +1,4 @@
-## Hi there<h1 align="center">Hi 👋, I'm Samikhya Das</h1>
+## <h1 align="center">Hi 👋, I'm Samikhya Das</h1>
 
 <h3 align="center">
   CSE Student • Open Source Enthusiast
