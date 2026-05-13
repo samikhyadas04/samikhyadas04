@@ -1,7 +1,7 @@
 ## Hi there<h1 align="center">Hi 👋, I'm Samikhya Das</h1>
 
 <h3 align="center">
-Frontend Developer • CSE Student • Open Source Enthusiast
+  CSE Student • Open Source Enthusiast
 </h3>
 
 ---
@@ -10,7 +10,7 @@ Frontend Developer • CSE Student • Open Source Enthusiast
 
 - 🎓 CSE student at IIIT Bhubaneswar
 - 🌱 Learning React, Node.js and DSA
-- 💡 Interested in Web Dev + AI
+- 💡 Interested in Web Dev + ML
 - 📫 Reach me at: samikhyadas007@gmail.com
 
 ---
@@ -31,7 +31,7 @@ Frontend Developer • CSE Student • Open Source Enthusiast
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p> 👋
+</p> 
 
 <!--
 **samikhyadas04/samikhyadas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
