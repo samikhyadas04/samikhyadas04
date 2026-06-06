@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Samikhya Das</h1>
 
 <h3 align="center">
-  CSE Student • Open Source Enthusiast
+
 </h3>
 
 ---
@@ -23,15 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p> 
 
 <!--
 **samikhyadas04/samikhyadas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
