@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - 🎓 CSE student at IIIT Bhubaneswar
-- 🌱 Learning React, Node.js and DSA
-- 💡 Interested in Web Dev + ML
+- 🌱 Learning DSA
+- 💡 Interested in Web Dev + AI
 - 📫 Reach me at: samikhyadas007@gmail.com
 
 ---
@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode,react.js,node.js,express.js" />
 </p>
 
 ---
