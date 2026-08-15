@@ -1,52 +1,58 @@
-## <h1 align="center">Hi 👋, I'm Samikhya Das</h1>
+# 👋 Hi, I'm Samikhya Das
 
-<h3 align="center">
 
-</h3>
+##  About Me
 
----
-
-## 🚀 About Me
-
-- 🎓 CSE student at IIIT Bhubaneswar
-- 🌱 Learning DSA
-- 💡 Interested in Web Dev + AI
-- 📫 Reach me at: samikhyadas007@gmail.com
+* 🎓 B.Tech CSE student at **IIIT Bhubaneswar**
+* 💻 Interested in **Backend Development & Agentic AI**
+* 🧠 Strengthening my skills in **DSA & Problem Solving**
+* 🚀 Building projects to turn ideas into real-world applications
+* 🌱 Learning something new every day
+* 🤝 Open to collaborations, projects and open-source opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode,nodejs,express,mongodb" />
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
-![Samikhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samikhyadas04&show_icons=true&theme=tokyonight)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samikhyadas04&theme=tokyonight)
-
----
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samikhyadas04&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samikhyadas04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
 
 ---
 
-<!--
-**samikhyadas04/samikhyadas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 GitHub Streak
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samikhyadas04&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhyadas04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+---
