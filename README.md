@@ -7,7 +7,6 @@
 * 💻 Interested in **Backend Development & Agentic AI**
 * 🧠 Strengthening my skills in **DSA & Problem Solving**
 * 🚀 Building projects to turn ideas into real-world applications
-* 🌱 Learning something new every day
 * 🤝 Open to collaborations, projects and open-source opportunities
 
 ---
