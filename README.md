@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samikhya04&theme=radical&hide_border=false&border=ff3c9e&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=samikhyadas04&theme=radical&hide_border=false&border=ff3c9e&background=0d1117" />
 
 </div>
 
