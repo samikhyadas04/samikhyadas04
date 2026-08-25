@@ -29,18 +29,24 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samikhyadas04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samikhyadas04&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samikhyadas04&theme=radical&hide_border=false" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=samikhyadas04&theme=radical&hide_border=false&border=ff3c9e&background=0d1117" />
-
-</div>
+---
 
 ## 💻 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhyadas04&layout=compact&theme=tokyonight&hide_border=true" /> </p>
----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhyadas04&layout=compact&theme=radical&langs_count=6&hide_border=false" />
+</p>
